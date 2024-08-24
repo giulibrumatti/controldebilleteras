@@ -20,16 +20,16 @@
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
                                     <div class="card-header"><h3 class="text-center font-weight-light my-4">Login Control de Cuentas</h3></div>
                                     <div class="card-body">
-                                        <form action="SVLogin" method="POST">
+                                        <form action="SvLogin" method="POST">
                                             <div class="form-floating mb-3">
                                                 <input class="form-control" id="userlogin" name="userlogin" type="text" 
                                                        placeholder="Usuario" required/>
-                                                <label for="inputEmail">Usuario</label>
+                                                <label for="userlogin">Usuario</label>
                                             </div>
                                             <div class="form-floating mb-3">
                                                 <input class="form-control" id="passlogin" name="passlogin" 
                                                         type="password" placeholder="Password" required />
-                                                <label for="inputPassword">Contraseña</label>
+                                                <label for="passlogin">Contraseña</label>
                                             </div>
                                             <div class="d-flex align-items-center justify-content-center mt-4 mb-0">
                                                 <button class="btn btn-primary" type="submit">Ingresar</button>
@@ -46,7 +46,7 @@
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">&copy; GBrumatti 2024</div>
+                            <div class="text-muted"><a class="text-decoration-none text-dark" href="https://cv-gbrumatti-web.vercel.app/" target="_blank">&copy; GBrumatti 2024</a></div>
                         </div>
                     </div>
                 </footer>

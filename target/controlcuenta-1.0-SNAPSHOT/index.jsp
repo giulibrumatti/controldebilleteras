@@ -13,7 +13,7 @@
                             <li class="breadcrumb-item active">Saldo en billeteras</li>
                         </ol>
                         <%
-                            // Llama al servlet al cargar la página
+                            
                             request.getRequestDispatcher("SvWallet").include(request, response);
                         %>
                         <%@include file="components/contIndex.jsp"%> 

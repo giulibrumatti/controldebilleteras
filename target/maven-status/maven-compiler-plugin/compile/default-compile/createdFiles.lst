@@ -13,12 +13,17 @@ com\controlcuenta\controlcuenta\exceptions\PreexistingEntityException.class
 persistencia\ControladoraPersistencia.class
 persistencia\exceptions\IllegalOrphanException.class
 logica\Wallet.class
+servlets\SvLogin.class
+logica\Wallet_.class
 servlets\SvElimTrans.class
+servlets\SvEditTrans.class
 logica\Controladora.class
 com\controlcuenta\controlcuenta\JakartaRestConfiguration.class
+logica\Usuario_.class
 servlets\SvTransacciones.class
 servlets\SvWallet.class
 servlets\SvUsuarios.class
 persistencia\WalletJpaController.class
 com\controlcuenta\controlcuenta\resources\JakartaEE8Resource.class
 persistencia\exceptions\NonexistentEntityException.class
+logica\Transaccion_.class
