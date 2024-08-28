@@ -47,7 +47,7 @@
                                         </button>
                                         <input type="hidden" name="id" value="<%=usu.getIdUsuario()%>">
                                     </form>
-                                    <form name="eliminar" action="SvElimUsurios" method="POST">
+                                    <form name="eliminar" action="SvElimUsuarios" method="POST">
                                         <button type="submit" class="btn btn-danger btn-circle m-1" style="border-color:red; background-color:red; margin-right: 5px;">
                                             <i class="fas fa-trash"></i>
                                         </button>

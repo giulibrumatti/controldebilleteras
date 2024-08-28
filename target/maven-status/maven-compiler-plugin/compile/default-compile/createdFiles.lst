@@ -16,7 +16,6 @@ logica\Wallet.class
 servlets\SvLogin.class
 logica\Wallet_.class
 servlets\SvElimTrans.class
-servlets\SvEditTrans.class
 logica\Controladora.class
 com\controlcuenta\controlcuenta\JakartaRestConfiguration.class
 logica\Usuario_.class

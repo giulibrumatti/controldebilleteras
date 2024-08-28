@@ -7,7 +7,7 @@ import javax.persistence.metamodel.StaticMetamodel;
 import logica.Transaccion;
 import logica.WalletType;
 
-@Generated(value="EclipseLink-2.7.10.v20211216-rNA", date="2024-08-24T10:47:47")
+@Generated(value="EclipseLink-2.7.10.v20211216-rNA", date="2024-08-27T13:07:07")
 @StaticMetamodel(Wallet.class)
 public class Wallet_ { 
 
